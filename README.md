@@ -1,3 +1,7 @@
 # Monday Motivational Quotes SMTP #
 
 We are finally moving away from GUIs and web development for Day 32 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b> and I thought it was a pretty good timing to create a new repositary on Github. For Day 32, there is actually 2 projects on SMTP which is basically an automated way to send emails using Python. For the first half, completed on 29/9/24, I followed along the tutorial and made a weekly motivational quote email subscription. Got a bit carried away and got my first subscriber (my boyfriend), only to find out that I have to run the code manually for it to work. Obviously, I was not going to do that every week but it would be cool to learn more about APIs. Very fun project and I have the second half to complete on my own.
+
+# Automated Birthday Wisher ##
+
+For part 2 of Day 32 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 30/9/24, I made an automated birthday wisher which would automatically send a randomised birthday email to my friends on their birthday. Kind of a silly idea but it helped me to get a better understanding on how email subscription services work. There was 3 difficulty for me to choose from: normal, hard and extra hard. I chose to go with hard and managed to complete it by myself by referring to the past projects. Also learnt that I can use PythonAnyWhere to schedule the code to automatically run weekly or yearly but I think I'll pass on that for now.
