@@ -5,3 +5,9 @@ We are finally moving away from GUIs and web development for Day 32 of <b>100 Da
 # Automated Birthday Wisher ##
 
 For part 2 of Day 32 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 30/9/24, I made an automated birthday wisher which would automatically send a randomised birthday email to my friends on their birthday. Kind of a silly idea but it helped me to get a better understanding on how email subscription services work. There was 3 difficulty for me to choose from: normal, hard and extra hard. I chose to go with hard and managed to complete it by myself by referring to the past projects. Also learnt that I can use PythonAnyWhere to schedule the code to automatically run weekly or yearly but I think I'll pass on that for now.
+
+# ISS Overhead Notifier #
+
+Day 33 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 01/10/24. Just a little update, I have been slowing down on this course due to school commitments. Even though I started learning Python purely for fun, the skills I have learnt has came in handy as I now need to apply ML for my Masters thesis project. Even though it is overwhelming for me as I have just started on coding one month ago, this course has given me some confidence to accept the challenge! While I still intend to complete all 100 days of code, I might need to split my time into learning advanced Machine Learning while also focusing on the fundamentals through this course.<br><br>
+
+For Day 33, I learnt about Application Programming Interfaces (API), something I have always heard about but never really knew what they were. For this project, I made use of two different APIs to create a email notification programme that will inform me when the International Space Station (ISS) is directly overhead me. It was relative straightforward and took me 15 minutes to complete (minus the coding for the UI).
