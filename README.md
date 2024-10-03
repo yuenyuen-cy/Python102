@@ -11,3 +11,11 @@ For part 2 of Day 32 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b
 Day 33 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 02/10/24. Just a little update, I have been slowing down on this course due to school commitments. Even though I started learning Python purely for fun, the skills I have learnt has came in handy as I now need to apply ML for my Masters thesis project. Even though it is overwhelming for me as I have just started on coding one month ago, this course has given me some confidence to accept the challenge! While I still intend to complete all 100 days of code, I might need to split my time into learning advanced Machine Learning while also focusing on the fundamentals through this course.<br><br>
 
 For Day 33, I learnt about Application Programming Interfaces (API), something I have always heard about but never really knew what they were. For this project, I made use of two different APIs to create a email notification programme that will inform me when the International Space Station (ISS) is directly overhead me. It was relative straightforward and took me 30 minutes to complete.
+
+# Quizzler App #
+
+Day 34 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 03/10/24. For this project, I developed the Quizzler app utilizing a trivia API and Tkinter for the graphical user interface. The most significant challenge I faced was implementing object-oriented programming and organizing the UI code within a class structure. Additionally, managing functions across multiple Python files proved to be quite complex. Even though the final product looked very simple, I did learn a lot from this challenge.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8174950c-6959-4942-ad74-8d1f35d8e3e8" alt="quizzler" />
+</div>
