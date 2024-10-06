@@ -22,7 +22,7 @@ Day 34 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed o
 
 # Rain Alert #
 
-Day 34 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 06/10/24. Learnt more about API and authentication keys and created a rain alert that sends myself a text message every morning at 8am if it was going to rain that day! This project was really fun and made use of trial versions of paid services such as the Open Weather Map and Twilio. Key takeaway from this lesson is that there isn't a fixed way to use an API, hence reading the documentation is very important. Decided to let Twilio keep running until the expiry date because this tool actually feels pretty useful!
+Day 35 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 06/10/24. Learnt more about API and authentication keys and created a rain alert that sends myself a text message every morning at 8am if it was going to rain that day! This project was really fun and made use of trial versions of paid services such as <i>Open Weather Map</i> and <i>Twilio</i>. Key takeaway from this lesson is that there isn't a fixed way to use an API, hence reading the documentation is very important. Decided to let Twilio keep running until the expiry date because this tool actually feels pretty useful!
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/dce19a3e-3089-49d0-be7f-0c0a09ee3874" alt="rain-alert" />
