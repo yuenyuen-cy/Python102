@@ -33,3 +33,12 @@ Day 35 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed o
 Mini Capstone Project for Day 36 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 07/10/24. Challenge today was to develop an SMS notification system that alerts users when a stock price moves by 5%. As a casual trader, I found this project particularly engaging. There were 3 levels of difficulties; Normal, Hard or Extra Hard. I felt like having a little challenge today so I opted for Extra Hard. The starting file was empty but I felt pretty confident in the steps I need to take to complete the challenge. <br><br>
 
 The most significant roadblock I encountered was an unexpected KeyError that surfaced despite the code functioning properly before. After about 10 minutes of troubleshooting, I realized that the API provider limits free users to 25 requests per day. I subsequently managed to work around this limitation by saving the stock data in a separate python file. Additionally, I faced some challenges when indexing the multi-layered JSON structure, often running into errors through multiple trials before finally getting it right. I ended up taking 1 hour 47 minutes to complete the project, which is probably the longest I have spent on a single project in this course. However, I am still very glad I made it through with Extra Hard difficulty!
+
+# Pixela Habit Tracker #
+
+Simple project for Day 37 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 08/10/24. Objective of today's project was to learn the other types of HTTP requests, i.e. post, put, delete. The API documentation was also very clear and easy to follow. (Note: The graph looks kind of bare because I was unable to populate the tracker due to API limitations!)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3b328494-8efd-40d3-9f81-2c74addecb82" alt="pixela" />
+</div>
+
