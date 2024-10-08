@@ -36,9 +36,11 @@ The most significant roadblock I encountered was an unexpected KeyError that sur
 
 # Pixela Habit Tracker #
 
-Simple project for Day 37 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 08/10/24. Objective of today's project was to learn the other types of HTTP requests, i.e. post, put, delete. The API documentation was also very clear and easy to follow. (Note: The graph looks kind of bare because I was unable to populate the tracker due to API limitations!)
+Simple project for Day 37 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 08/10/24. Objective of today's project was to learn the other types of HTTP requests, i.e. post, put, delete. The API documentation was also very clear and easy to follow. 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3b328494-8efd-40d3-9f81-2c74addecb82" alt="pixela" />
 </div>
+
+<i>Note: The graph looks kind of bare because I was unable to populate the tracker due to API limitations!</i>
 
