@@ -53,3 +53,24 @@ The biggest frustration set in when I was unable to figure out why the run butto
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e1177608-f6ef-4125-844b-6ed969adc30c" alt="workout" />
 </div>
+
+# Flight Deals ✈️ #
+
+Day 39 and Day 40 of <b>100 Days of Code: The Complete Python Pro Bootcamp</b>, completed on 20/10/24. Took a 10 days hiatus from the course as school was getting very busy. I have already decided to discontinue this course but I really wanted to complete the Python section till Day 40. However, this capstone project was insanely confusing. I initially thought it was because I lost momentum but soon realised that (1) I could not visualise the end product and (2) the solution provided was full of bugs. The comments to the solution on GitHub validated my confusion but I was determined to make it work. After some help from ChatGPT, the furthest I got was getting the cheapest flight costs from London to the different locations. I did not want to take it further with the messaging and email features, so I decided to end the capstone project (and the course) here.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f89bfc7e-4d7d-437b-af59-15ab87e21848" alt="workout" />
+</div>
+
+# What's Next? 👀 #
+
+I am stopping for two main reasons: (1) Reviews of this course generally suggest a decline in the quality of the course after Day 40, which I have also noticed as the course progressed and (2) I need to advance to more complex coding within a tight timeline for my thesis project. In the <a href="https://www.youtube.com/watch?v=5MgBikgcWnY">TED talk by Josh Kaufman, The first 20 hours -- how to learn anything</a>, he argues that with just 20 hours of focused, deliberate practice, anyone can achieve proficiency in a new skill. While the definition of 'proficient' vary, I feel that I have dedicated at least 40 hours to hands-on practice in Python and have acquired sufficient technical skills to advance to more complex topics.<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f373e4b4-5f6d-4ba5-9f49-c7382b34fe86" alt="course" />
+</div>
+<br>
+Looking forward to the next chapter in my learning jouurney! 👋
+
+
+
